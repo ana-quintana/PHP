@@ -32,4 +32,10 @@ function calcularSomaPositivosENegativos($numeros) {
 echo "Digite o número de vezes que deseja imprimir a palavra AZUL: ";
 $numeroVezes = readline();
 imprimirPalavra($numeroVezes);
+
 */ 
+
+?>
+
+</body>
+</html>
