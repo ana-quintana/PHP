@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+ 
+<?php
+//Ana Luiza Quintana
+
+/*8 - Criar um algoritmos que leia um número e imprima todos os número de 1 até ele e o seu produto.
+// Função para imprimir números de 1 até o número dado e seu produto
+function imprimirNumerosEProduto($numero) {
+    $produto = 1;
+    echo "Números de 1 até $numero:\n";
+    for ($i = 1; $i <= $numero; $i++) {
+        echo "$i ";
+        $produto *= $i;
+    }
+    echo "\nProduto dos números: $produto\n";
+}
+// Chama as funções com as variáveis inseridas pelo usuário
+echo "Informe um número para imprimir números até ele e seu produto: ";
+$num = intval(readline());
+imprimirNumerosEProduto($num);
+*/
