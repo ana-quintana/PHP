@@ -51,4 +51,9 @@
             // caso não entre em um case o valor sai como default
             echo "Não existe mês com este número";
     }
+
 */ 
+?>
+
+</body>
+</html>
