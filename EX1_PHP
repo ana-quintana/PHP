@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+ 
+<?php
+//Ana Luiza 
+
+/*1 -Construir um algoritmo que leia 2 números e efetue a adição. Caso o valor somado seja maior que 20, este deverá ser apresentando somando-se a ele mais 8; caso o valor somado seja menor ou igual a 20, este deverá ser apresentado subtraindo-se 5.
+$n1 = 11; //numero a ser alterado
+$n2 = 10; //numero a ser alterado
+$soma = $n1+$n2;
+//verefica se a soma é maior ou menor que vinte
+if($soma>20){
+$soma = $soma+8;
+echo $soma;
+}else{
+$soma = $soma-5;
+echo $soma;
+}
+*/
