@@ -20,4 +20,10 @@ function imprimirNumerosEProduto($numero) {
 echo "Informe um número para imprimir números até ele e seu produto: ";
 $num = intval(readline());
 imprimirNumerosEProduto($num);
+
 */
+
+?>
+
+</body>
+</html>
