@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+ 
+<?php
+//Ana Luiza Quintana
+
+/*9 - Entrar com o número de vezes que se deseja imprimir a palavra AZUL e imprimir
+function imprimirPalavra($numeroVezes) {
+    for ($i = 0; $i < $numeroVezes; $i++) {
+        echo "AZUL ";
+    }
+}
+ 
+function calcularSomaPositivosENegativos($numeros) {
+    $somaPositivos = 0;
+    $totalNegativos = 0;
+ 
+    foreach ($numeros as $numero) {
+        if ($numero > 0) {
+            $somaPositivos += $numero;
+        } elseif ($numero < 0) {
+            $totalNegativos++;
+        }
+    }
+ 
+    echo "Soma dos números positivos: $somaPositivos\n";
+    echo "Total de números negativos: $totalNegativos\n";
+}
+ 
+// Imprimir a palavra AZUL
+echo "Digite o número de vezes que deseja imprimir a palavra AZUL: ";
+$numeroVezes = readline();
+imprimirPalavra($numeroVezes);
+*/ 
