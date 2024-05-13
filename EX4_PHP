@@ -21,3 +21,7 @@
         echo "Números em ordem decrescente: " . $numeros[0] . ", " . $numeros[1] . ", " . $numeros[2] . "\n";
    
 */
+?>
+
+</body>
+</html>
