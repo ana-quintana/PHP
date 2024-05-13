@@ -17,4 +17,9 @@
     } else { // se n for nenhum dos demais só pode ser escaleno
         echo "O triângulo é escaleno";
     }
+
 */
+?>
+
+</body>
+</html>
