@@ -28,4 +28,11 @@ $confirma = 0;
 }
 if($confirma==1){
 echo "Não é divisivel por nenhum número previsto.";
-}*/
+}
+
+*/
+?>
+
+</body>
+</html>
+
