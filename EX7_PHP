@@ -31,4 +31,9 @@ $tipoUsuario = readline();
 // Chama as funções com as variáveis inseridas pelo usuário
 imprimirRecibo($nomeLivro, $tipoUsuario);
 }
+
 */
+?>
+
+</body>
+</html>
