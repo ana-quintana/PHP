@@ -25,4 +25,9 @@ if (is_numeric($numero)) {
 } else {
     echo "O valor digitado não é um número válido. Por favor, tente novamente.\n";
 }
+
 */
+?>
+
+</body>
+</html>
