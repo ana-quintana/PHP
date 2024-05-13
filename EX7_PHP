@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+ 
+<?php
+//Ana Luiza Quintana
+
+/*7 - A biblioteca de uma universidade deseja fazer um algoritmo que leia o nome do livro que será emprestado, o tipo de usuário (professor ou aluno) e possa imprimir um recibo conforme mostrado a seguir. Considerar que o professor tem 10 dias para devolver o livro o aluno somente 3 dias
+// Função para imprimir o recibo do empréstimo do livro
+function imprimirRecibo($nomeLivro, $tipoUsuario) {
+    if ($tipoUsuario === 'professor'||$tipoUsuario === 'PROFESSOR'||$tipoUsuario==='Professor') {
+        $prazoDevolucao = 10;
+    } else {
+        $prazoDevolucao = 3;
+    }
+ 
+    // Obtém a data de devolução somando o prazo ao dia atual
+    $dataDevolucao = date('d/m/Y', strtotime("+$prazoDevolucao days"));
+ 
+    // Imprime o recibo
+    echo "Recibo de Empréstimo\n";
+    echo "====================\n";
+    echo "Livro: $nomeLivro\n";
+    echo "Tipo de usuário: $tipoUsuario\n";
+    echo "Data de devolução: $dataDevolucao\n";
+    // Solicitação das variáveis ao usuário
+echo "Informe o nome do livro: ";
+$nomeLivro = readline();
+echo "Informe o tipo de usuário (professor ou aluno): ";
+$tipoUsuario = readline();
+// Chama as funções com as variáveis inseridas pelo usuário
+imprimirRecibo($nomeLivro, $tipoUsuario);
+}
+*/
