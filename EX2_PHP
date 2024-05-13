@@ -1,0 +1,27 @@
+<?php
+//Ana Luiza Quintana
+
+/*2 - Entrar com um número e informar se ele é divisível por 10, por 5, por 2 ou se não é divisível por nenhum destes.
+//recebe as variaveis
+$n1 = 1; //numero a ser alterado
+$confirma = 1;
+
+//estrutura condicional para avaliar se os numeros são divisíveis
+if($n1%10==0){
+echo "É divisível por 10";
+echo"<br>";
+$confirma = 0;
+}
+if($n1%5==0){
+echo "É divisível por 5";
+echo"<br>";
+$confirma = 0;
+}
+if($n1%2==0){
+echo "É divisível por 2";
+echo"<br>";
+$confirma = 0;
+}
+if($confirma==1){
+echo "Não é divisivel por nenhum número previsto.";
+}*/
