@@ -17,4 +17,9 @@ echo $soma;
 $soma = $soma-5;
 echo $soma;
 }
+
 */
+?>
+
+</body>
+</html>
