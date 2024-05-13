@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<body>
+ 
+<?php
+//Ana Luiza Quintana
+
+/*12 - Criar um algoritmos que entre com uma palavra e imprima conforme o exemplo
+◦Palavra: sonho
+◦SONHO
+◦SONHO SONHO
+◦SONHO SONHO SONHO
+◦SONHO SONHO SONHO SONHO
+
+
+// Função para obter entrada do usuário
+function getUserInput($prompt) {
+    echo $prompt . ": ";
+    return trim(fgets(STDIN));
+}
+ 
+// Obter a palavra do usuário
+$palavra = getUserInput("Digite uma palavra");
+ 
+// Obter a quantidade de linhas do usuário
+$quantidade = (int) getUserInput("Digite a quantidade de linhas");
+ 
+// Verificar se a entrada da quantidade de linhas é válida
+if ($quantidade <= 0) {
+    echo "A quantidade de linhas deve ser um número inteiro positivo.";
+} else {
+    // Loop para imprimir a palavra repetida conforme a quantidade de linhas
+    for ($i = 1; $i <= $quantidade; $i++) {
+        echo $i . ": ";
+        // Imprime a palavra repetida
+        for ($j = 0; $j < $i; $j++) {
+            echo $palavra . " ";
+        }
+        echo PHP_EOL;
+    }
+}
+
+*/
+
+?>
+
+</body>
+</html>
